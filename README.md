@@ -19,3 +19,11 @@ This is a full-stack web application built using **Angular (Frontend)** and **Sp
 cd frontend
 npm install
 ng serve
+
+
+
+
+
+
+
+today applu some jobs
